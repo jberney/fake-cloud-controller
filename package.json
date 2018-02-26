@@ -1,0 +1,9 @@
+{
+  "name": "fake-cloud-controller",
+  "version": "1.0.0",
+  "main": "index",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash.orderby": "^4.6.0"
+  }
+}
